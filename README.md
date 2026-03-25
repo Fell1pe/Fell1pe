@@ -1,6 +1,7 @@
 ### Olá eu sou o Fellipe Gabriel 👋
 
 📕 Estudante de Engenharia de Software Unifil(londrina)
+
 💻 técnico em Programação Web (Marista Ir.Acácio)
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fellipe-zanin-1b1a7728b/)
