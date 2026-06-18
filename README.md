@@ -1,25 +1,26 @@
-### Olá eu sou o Fellipe Gabriel 👋
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/hero-banner?user=Fell1pe&title=Fellipe%20Gabriel&subtitle=Atualmente%20sou%20um%20estudante%20da%20Universidade%20Unifil(Londrina)%20Bacharelado%20em&theme=dark"><img alt="Fell1pe hero" src="https://coolreadme.xyz/api/hero-banner?user=Fell1pe&title=Fellipe%20Gabriel&subtitle=Atualmente%20sou%20um%20estudante%20da%20Universidade%20Unifil(Londrina)%20Bacharelado%20em&theme=light"></picture>
 
-📕 Estudante de Engenharia de Software Unifil(londrina)
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/typing-card?user=Fell1pe&lines=Building%20things%20on%20the%20internet%7Cgithub.com%2FFell1pe&theme=dark"><img alt="typing intro" src="https://coolreadme.xyz/api/typing-card?user=Fell1pe&lines=Building%20things%20on%20the%20internet%7Cgithub.com%2FFell1pe&theme=light"></picture>
 
-💻 técnico em Programação Web (Marista Ir.Acácio)
+### Featured projects
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fellipe-zanin-1b1a7728b/)
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/projects-gallery?user=Fell1pe&projects=AULA-giit%7Cdescri%C3%A7%C3%A3o%7C%7C0%7Chttps%3A%2F%2Fgithub.com%2FFell1pe%2FAULA-giit%3B%3Bminha_AI%7Cn%C3%A3o%2Bfa%C3%A7o%2Bid%C3%A9ia%2Bde%2Bcomo%2Bvou%2Bfazer%2Bisso%2B%2C%2Bvamos%2Bver%2Bse%2Bsai%2Balgo%2C%2Btentarei%2Bdocumentar%2Btudo.%7CJavaScript%7C0%7Chttps%3A%2F%2Fgithub.com%2FFell1pe%2Fminha_AI%3B%3BFell1pe%7C%7C%7C0%7Chttps%3A%2F%2Fgithub.com%2FFell1pe%2FFell1pe%3B%3Bprojeto-integrador%7C%7CSCSS%7C0%7Chttps%3A%2F%2Fgithub.com%2FFell1pe%2Fprojeto-integrador%3B%3Bdocumentacao-projetointegrador%7C%7CSCSS%7C0%7Chttps%3A%2F%2Fgithub.com%2FFell1pe%2Fdocumentacao-projetointegrador%3B%3Bprojeto-int-documentacao%7C%7C%7C0%7Chttps%3A%2F%2Fgithub.com%2FFell1pe%2Fprojeto-int-documentacao&theme=dark"><img alt="Featured projects" src="https://coolreadme.xyz/api/projects-gallery?user=Fell1pe&projects=AULA-giit%7Cdescri%C3%A7%C3%A3o%7C%7C0%7Chttps%3A%2F%2Fgithub.com%2FFell1pe%2FAULA-giit%3B%3Bminha_AI%7Cn%C3%A3o%2Bfa%C3%A7o%2Bid%C3%A9ia%2Bde%2Bcomo%2Bvou%2Bfazer%2Bisso%2B%2C%2Bvamos%2Bver%2Bse%2Bsai%2Balgo%2C%2Btentarei%2Bdocumentar%2Btudo.%7CJavaScript%7C0%7Chttps%3A%2F%2Fgithub.com%2FFell1pe%2Fminha_AI%3B%3BFell1pe%7C%7C%7C0%7Chttps%3A%2F%2Fgithub.com%2FFell1pe%2FFell1pe%3B%3Bprojeto-integrador%7C%7CSCSS%7C0%7Chttps%3A%2F%2Fgithub.com%2FFell1pe%2Fprojeto-integrador%3B%3Bdocumentacao-projetointegrador%7C%7CSCSS%7C0%7Chttps%3A%2F%2Fgithub.com%2FFell1pe%2Fdocumentacao-projetointegrador%3B%3Bprojeto-int-documentacao%7C%7C%7C0%7Chttps%3A%2F%2Fgithub.com%2FFell1pe%2Fprojeto-int-documentacao&theme=light"></picture>
 
-![Fellipe GitHub stats](https://github-readme-stats.vercel.app/api?username=Fell1pe&theme=synthwave)
+### Stats
 
-### Tecnologias :
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/stats-card?user=Fell1pe&theme=dark"><img alt="Fell1pe GitHub stats" src="https://coolreadme.xyz/api/stats-card?user=Fell1pe&theme=light"></picture>
 
-<div style="display: inline block"><br/>
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img aling="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass" />
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117" />
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-     <img aling="center" alt="html5" src="https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma" />
-    
-    
-</div>
+![owl streak](https://coolreadme.xyz/api/owl-card?user=Fell1pe)
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://coolreadme.xyz/api/wakatime-card?user=Fell1pe&theme=dark"><img alt="Fell1pe coding time" src="https://coolreadme.xyz/api/wakatime-card?user=Fell1pe&theme=light"></picture>
+
+### Currently
+
+[![AULA-giit netflix-style card](https://coolreadme.xyz/api/netflix-card?title=AULA-giit&synopsis=descri%C3%A7%C3%A3o&genre=Open%20Source&match=98&rating=PG&img=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F140712280%3Fv%3D4&user=Fell1pe&style=poster)](https://github.com/Fell1pe/AULA-giit)
+
+### Connect
+
+![Connect with Fell1pe](https://coolreadme.xyz/api/social-card?user=Fell1pe&title=Let's%20talk&sub=DMs%20open&skills=scss%2Cjavascript&style=instagram)
+
+
+<sub>Built with [coolreadme.xyz](https://coolreadme.xyz/u/Fell1pe) — one-click GitHub README cards.</sub>
